@@ -1,6 +1,6 @@
 ## <b>installation</b>
 
-🔰 _PUBLIC FULL OK IDZ_
+🔰 _JANGAN LUPA FOLLOW GITHUB AKU_
 
 
 - `pkg update`
